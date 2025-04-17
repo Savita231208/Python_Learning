@@ -1,0 +1,1 @@
+#Wap to check weatherr a string is palindrom or notS

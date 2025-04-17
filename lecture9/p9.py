@@ -1,0 +1,1 @@
+'''Write a python program to create a function named substr(),in substr() function pass a string and substring.if substring is presented in string then return true or return false'''

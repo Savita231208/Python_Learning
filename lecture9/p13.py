@@ -1,0 +1,1 @@
+#wap to calculate the sum of a list
